@@ -1,4 +1,4 @@
-You scene already has a Directional Light, without it the scene would be dark. 
+Your scene already has a Directional Light, without it the scene would be dark. 
 
 You can add another Directional Light by clicking on '+' in the Hierarchy and choosing 'Light' -> 'Directional Light'. 
 
