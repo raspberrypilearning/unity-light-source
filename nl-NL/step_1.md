@@ -1,7 +1,7 @@
-Your scene already has a Directional Light, without it the scene would be dark.
+Je scène heeft al een Directional Light. Zonder dit zou de scène donker zijn.
 
-You can add another Directional Light by clicking on **+** in the Hierarchy window and choosing **Light** > **Directional Light**.
+Je kunt een ander Directional Light toevoegen door te klikken op **+** in het Hierarchy venster en te kiezen voor **Light** > **Directional Light**.
 
-You can change the position of the light, as well as adjust the colour and other settings.
+Je kunt de positie van het licht wijzigen, maar ook de kleur en andere instellingen aanpassen.
 
-Try creating interesting lighting effects to set the mood for your scene. 
+Probeer interessante lichteffecten te maken om de sfeer van je scène in te stellen. 
